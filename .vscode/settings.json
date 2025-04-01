@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.env.development": "env",
+        "*.env.production": "env",
+        "config.h": "c",
+        "system.h": "c"
+    }
+}

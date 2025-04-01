@@ -1,2 +1,2 @@
-> https://mirrors.edge.kernel.org/pub/linux/kernel/Historic
+> https://cdn.kernel.org/pub/linux/kernel/Historic/linux-0.01.tar.gz
 

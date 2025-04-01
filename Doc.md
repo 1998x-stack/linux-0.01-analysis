@@ -1,0 +1,3 @@
+- https://seiya.me/blog/reading-linux-v0.01
+- https://mp.weixin.qq.com/s?__biz=MzU5ODQxMDIxNg==&mid=2247524667&idx=1&sn=dde1be75739c54467630e10f4ed2f691&chksm=ff1ec1ad2f9a9acf72cb65e00b0ab088aa97cbed8abdf90b0c484a3120fa55d2b105aae9159d#rd
+- https://mp.weixin.qq.com/s?__biz=MjM5NTY1MjY0MQ==&mid=2650880535&idx=1&sn=ed18760b1d928a5961866aceee6e42e4&chksm=bc4fab8ade321a91aa9a1f06c8ff24de6f8395f01aac7dd4f27cccd9003aeb8edf401dabf045#rd
